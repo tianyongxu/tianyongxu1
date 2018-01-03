@@ -8,7 +8,8 @@
 
 package hw20180103;
 
-import java.util.logging.Logger;
+import org.apache.log4j.Logger;
+
 
 /**
  * Description:   <br/>
@@ -19,6 +20,7 @@ import java.util.logging.Logger;
  */
 public class Test {
     private final static Logger LOG= Logger.getLogger(Test.class);
+    
 
     public static void main(String[] args) {
 
